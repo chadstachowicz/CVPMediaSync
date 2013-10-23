@@ -1,0 +1,47 @@
+server1:
+ letter: i
+ iphost: 10.5.5.30
+ username: PROD/TestAdmin
+ password: Test123!
+
+server2: 
+ letter: j
+ iphost: 10.5.5.31
+ username: PROD/TestAdmin
+ password: Test123!
+
+server3:
+ letter: k
+ iphost: 10.9.5.41
+ username: PROD/TestAdmin
+ password: Test123!
+
+server4: 
+ letter: l
+ iphost: 10.9.5.47
+ username: PROD/TestAdmin
+ password: Test123!
+
+server5:
+ letter: m
+ iphost: 10.190.224.74
+ username: PROD/TestAdmin
+ password: Test123!
+
+server6:
+ letter: n
+ iphost: 10.190.224.68
+ username: PROD/TestAdmin
+ password: Test123!
+
+server7:
+ letter: o
+ iphost: 10.90.224.74
+ username: PROD/TestAdmin
+ password: Test123!
+
+server8:
+ letter: p
+ iphost: 10.90.224.68
+ username: PROD/TestAdmin
+ password: Test123!
